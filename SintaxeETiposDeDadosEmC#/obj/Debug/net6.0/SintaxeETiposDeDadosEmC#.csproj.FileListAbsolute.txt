@@ -1,0 +1,15 @@
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/bin/Debug/net6.0/SintaxeETiposDeDadosEmC#
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/bin/Debug/net6.0/SintaxeETiposDeDadosEmC#.deps.json
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/bin/Debug/net6.0/SintaxeETiposDeDadosEmC#.runtimeconfig.json
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/bin/Debug/net6.0/SintaxeETiposDeDadosEmC#.dll
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/bin/Debug/net6.0/SintaxeETiposDeDadosEmC#.pdb
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.csproj.AssemblyReference.cache
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.AssemblyInfoInputs.cache
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.AssemblyInfo.cs
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.dll
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/refint/SintaxeETiposDeDadosEmC#.dll
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.pdb
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/SintaxeETiposDeDadosEmC#.genruntimeconfig.cache
+/Users/oberdanmarinho/Projects/Dio/Dio.Pottencial-DOTNET-Developer/SintaxeETiposDeDadosEmC#/obj/Debug/net6.0/ref/SintaxeETiposDeDadosEmC#.dll
